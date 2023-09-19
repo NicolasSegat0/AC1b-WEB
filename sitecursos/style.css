@@ -1,0 +1,78 @@
+body{
+    background-image: url('image/fundo.jpg');
+    
+}
+
+.ul1{
+    list-style: none;
+    display: flex; 
+    justify-content: space-around;
+}
+
+.ul2{
+    list-style: none;
+    display: flex; 
+    justify-content: space-around;
+}
+
+li {
+    margin: 10px;
+}
+
+.img1{
+    height: 300px;
+    width: 500px;
+    border: 8px white;
+    box-shadow: 1px 1px 4px black;
+}
+
+
+.img2{
+    height: 300px;
+    width: 500px;
+    border: 8px white;
+    box-shadow: 1px 1px 4px black;
+}
+
+.img3{
+    height: 300px;
+    width: 500px;
+    border: 8px white;
+    box-shadow: 1px 1px 4px black;
+}
+
+.img4{
+    height: 300px;
+    width: 500px;
+    border: 8px white;
+    box-shadow: 1px 1px 4px black;
+}
+
+.img5{
+    height: 300px;
+    width: 500px;
+    border: 8px black;
+    box-shadow: 1px 1px 4p; 
+    position: relative;
+}
+
+input {
+    width: 420px;
+    height: 27px;
+    border-radius: 0%;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
